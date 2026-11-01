@@ -16,7 +16,7 @@ const FAMILY_CONFIG = {
       birth: { date: '2024-01-20', time: '11:45', timezone: 'Asia/Karachi', timezoneLabel: 'PKT · UTC+05:00', city: 'Faisalabad', country: 'Pakistan', hospital: '', weight: '', length: '' },
       // City not supplied. Add the city above when ready.
       welcome: 'My dear Daim, you made me Papa and filled my world with a love I had never known.',
-      imagePath: 'images/daim/', portrait: { file: 'photo1.jpg', alt: 'Daim, our beloved son', focal: '50% 50%' },
+      imagePath: 'images/daim/', portrait: { file: 'daim-portrait.jpeg', alt: 'Daim, our beloved son', focal: '50% 50%' },
       photos: [
         'photo1.jpg','photo2.jpg','photo3.jpg','photo4.jpg','photo5.jpg','photo6.jpg','photo7.jpg','photo8.jpg','photo9.jpg','photo10.jpg','photo11.jpg','photo12.jpg','photo13.jpg','photo14.jpg','photo15.jpg','photo16.jpg','photo17.jpg','photo18.jpg','photo19.jpg','photo20.jpg','photo21.jpg','photo22.jpg','photo23.jpg','photo24.jpg','photo25.jpg','photo26.jpg','photo27.jpg','photo28.jpg','photo29.jpg','photo30.jpg','photo31.jpg',
         'IMG_0001.JPG','IMG_0003.JPG','IMG_0005.JPG','IMG_0043.JPG','IMG_0109.JPG','IMG_0118.JPG','IMG_0120.JPG','IMG_0125.JPG','IMG_0144.JPG','IMG_0249.JPG','IMG_0268.JPG','IMG_0270.JPG','IMG_0312.JPG','IMG_0411.JPG','IMG_0415.JPG','IMG_0474.JPG','IMG_0479.JPG','IMG_0508.JPG','IMG_0528.JPG','IMG_0529.JPG','IMG_0532.JPG','IMG_0537.JPG','IMG_9888.JPG','IMG_9920.JPG','IMG_9941.JPG','IMG_9967.JPG','IMG_9983.JPG','IMG_9994.JPG'
@@ -40,7 +40,7 @@ Papa`
       introduction: 'My precious Hidayah, your arrival brought another beautiful light into our home and another forever love into my heart.',
       birth: { date: '2026-10-15', time: '10:57', timezone: 'Asia/Riyadh', timezoneLabel: 'AST · UTC+03:00', city: 'Jeddah', country: 'Saudi Arabia', hospital: '', weight: '', length: '' },
       welcome: 'My precious Hidayah, your arrival brought another beautiful light into our home and another forever love into my heart.',
-      imagePath: 'images/hidayah/', portrait: { file: '', alt: 'Hidayah, our precious daughter', focal: '50% 50%' },
+      imagePath: 'images/hidayah/', portrait: { file: 'hidayah-portrait.jpeg', alt: 'Hidayah, our precious daughter', focal: '50% 50%' },
       photos: [], milestones: [],
       letter: `My precious Hidayah,
 
