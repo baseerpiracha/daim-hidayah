@@ -57,7 +57,7 @@ With all my love,
 Papa`
     }
   ],
-  siblings: { imagePath: 'images/siblings/', photos: [] }
+  siblings: { imagePath: 'images/siblings/', photos: ['1.jpeg','2.jpeg','3.jpeg','4.jpeg','5.jpeg'] }
 };
 
 // Rendering uses textContent for personal text; no HTML is interpreted.
