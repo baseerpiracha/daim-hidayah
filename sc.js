@@ -41,7 +41,7 @@ Papa`
       birth: { date: '2026-10-15', time: '10:57', timezone: 'Asia/Riyadh', timezoneLabel: 'AST · UTC+03:00', city: 'Jeddah', country: 'Saudi Arabia', hospital: '', weight: '', length: '' },
       welcome: 'My precious Hidayah, your arrival brought another beautiful light into our home and another forever love into my heart.',
       imagePath: 'images/hidayah/', portrait: { file: 'hidayah-portrait.jpeg', alt: 'Hidayah, our precious daughter', focal: '50% 50%' },
-      photos: [], milestones: [],
+      photos: ['1.jpeg','2.jpeg','3.jpeg','4.jpeg','5.jpeg','6.jpeg','7.jpeg','8.jpeg','9.jpeg','10.jpeg','11.jpeg'],, milestones: [],
       letter: `My precious Hidayah,
 
 You arrived so small, yet brought so much love into our lives. You are a beautiful blessing, and I am grateful for every moment I get to watch you grow.
